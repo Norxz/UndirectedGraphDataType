@@ -5,7 +5,7 @@ Java
         private int E;
         private List<Integer>[] adj;
 
-Estas son las variables de instancia de la clase Graph. V es el número de vértices en el grafo, E es el número de aristas y adj es una matriz de listas de adyacencia.
+Estas son las variables de instancia de la clase Graph. V es el número de vértices en el grafo, E es el número de aristas y adj es una arreglo de listas de adyacencia.
 
 Java
 
