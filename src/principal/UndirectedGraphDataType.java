@@ -47,12 +47,6 @@ public class UndirectedGraphDataType {
         // Calcula el número de bucles de autovuelta en el grafo
         int buclesAutovuelta = GraphProcessing.numberOfSelfLoops(g);
         System.out.println("El número de bucles de autovuelta en el grafo es: " + buclesAutovuelta);
-        /*
-        System.out.println(GraphProcessing.adjacencyListsToString(g));
-        System.out.println("Degree of vertex 2: " + GraphProcessing.degree(g, 2));
-        System.out.println("Max degree: " + GraphProcessing.maxDegree(g));
-        System.out.println("Average degree: " + GraphProcessing.averageDegree(g));
-        System.out.println("Number of self loops: " + GraphProcessing.numberOfSelfLoops(g));
-        */
+        
     }
 }
